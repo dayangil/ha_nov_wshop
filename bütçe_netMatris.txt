@@ -1,0 +1,61 @@
+==============================================================================
+                   GÜVENLİ GİDER VE MALİYET MATRİSİ (EURO)                    
+==============================================================================
+ Maliyet Kalemi                      | Euro Karşılığı   | Maliyet Türü       
+------------------------------------------------------------------------------
+ Muhterem Hn. Eğitmen Ücreti         |      1300.00 €    | Sabit Gider       
+ Eduardo Eğitmen Ücreti              |      1300.00 €    | Sabit Gider       
+ Zeynep Organizasyon Ücreti          |       800.00 €    | Sabit Gider       
+ Eduardo Uçak Bileti                 |       450.00 €    | Sabit Gider       
+ Workshop Malzemeleri (Toplam)       |       300.00 €    | Sabit Gider       
+ Toplam Vapur Ücreti (TL)            |        27.27 €    | Sabit Gider       
+------------------------------------------------------------------------------
+ Konaklama                           |        95.00 €    | Değişken (Kişi Başı)
+ Havalimanı Transfer (TL)            |        72.73 €    | Değişken (Kişi Başı)
+ Topkapı Sarayı (TL)                 |        50.00 €    | Değişken (Kişi Başı)
+ Gala Yemeği (TL)                    |        36.36 €    | Değişken (Kişi Başı)
+ İki Öğle Yemeği                     |        25.00 €    | Değişken (Kişi Başı)
+ Coffee Break                        |        20.00 €    | Değişken (Kişi Başı)
+ Toplu Ulaşım (TL)                   |        18.18 €    | Değişken (Kişi Başı)
+ Toplantı Salonu                     |        10.00 €    | Değişken (Kişi Başı)
+ Resim Heykel Müzesi (TL)            |        10.00 €    | Değişken (Kişi Başı)
+ Sertifika Baskısı (TL)              |         1.82 €    | Değişken (Kişi Başı)
+ Porselen Fayans (TL)                |         1.82 €    | Değişken (Kişi Başı)
+------------------------------------------------------------------------------
+ 3 Kişilik Yönetim Kadrosu Toplam Yükü |      1022.73 €    | Sabit Havuzuna Ek 
+ KESİN SABİT MALİYET TOPLAMI         |      5200.00 €    | Kadro Dahil Sabit 
+ KİŞİ BAŞI DEĞİŞKEN MALİYET          |       340.91 €    | Katılımcı Başı Çarpan
+==============================================================================
+
+          NET / VERGİSİZ / KOMİSYONSUZ WORKSHOP NET KÂR SENARYOLARI           
+==============================================================================
+
+>>> SENARYO: 10 KATILIMCI <<<
+--------------------------------------------------
+Toplam Net Ciro                    :   13950.00 €
+Toplam Katılımcı Değişken Gideri   :    3409.09 €
+Toplam Organizasyon Maliyeti       :    8609.09 €
+--------------------------------------------------
+SİZE KALAN NET KÂR (%100)          :    5340.91 €
+Kişi Başına Düşen Net Kazancınız   :     534.09 €
+==============================================================================
+
+>>> SENARYO: 12 KATILIMCI <<<
+--------------------------------------------------
+Toplam Net Ciro                    :   16740.00 €
+Toplam Katılımcı Değişken Gideri   :    4090.91 €
+Toplam Organizasyon Maliyeti       :    9290.91 €
+--------------------------------------------------
+SİZE KALAN NET KÂR (%100)          :    7449.09 €
+Kişi Başına Düşen Net Kazancınız   :     620.76 €
+==============================================================================
+
+>>> SENARYO: 15 KATILIMCI <<<
+--------------------------------------------------
+Toplam Net Ciro                    :   20925.00 €
+Toplam Katılımcı Değişken Gideri   :    5113.64 €
+Toplam Organizasyon Maliyeti       :   10313.64 €
+--------------------------------------------------
+SİZE KALAN NET KÂR (%100)          :   10611.36 €
+Kişi Başına Düşen Net Kazancınız   :     707.42 €
+==============================================================================

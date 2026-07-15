@@ -1,0 +1,60 @@
+===========================================================================
+   İKTİSADİ İŞLETME + %10 DERNEK PAYLI WORKSHOP BÜTÇE RAPORU (EURO)
+===========================================================================
+
+>>> SENARYO: 10 KATILIMCI <<<
+----------------------------------------
+Toplam Brüt Ciro (KDV Dahil)       :   13950.00 €
+Ödenecek KDV (%20)                 :    2325.00 €
+KDV Hariç Net Ciro                 :   11625.00 €
+----------------------------------------
+Toplam Sabit Maliyetler            :    5200.00 € (Kadro Değişken Giderleri Dahil)
+Toplam Katılımcı Değişken Maliyeti :    3409.09 €
+Toplam Operasyonel Gider (Maliyet) :    8609.09 €
+----------------------------------------
+Vergi Matrahı (Dönem Kârı)         :    3015.91 €
+Kurumlar Vergisi (%25)             :     753.98 €
+Yasal Net Kâr (Vergi Sonrası)       :    2261.93 €
+----------------------------------------
+DERNEK KÂR PAYI (%10)              :     226.19 €
+SİZE KALAN NET KÂR (%90)           :    2035.74 €
+Kişi Başına Düşen Net Kazancınız   :     203.57 €
+===========================================================================
+
+>>> SENARYO: 12 KATILIMCI <<<
+----------------------------------------
+Toplam Brüt Ciro (KDV Dahil)       :   16740.00 €
+Ödenecek KDV (%20)                 :    2790.00 €
+KDV Hariç Net Ciro                 :   13950.00 €
+----------------------------------------
+Toplam Sabit Maliyetler            :    5200.00 € (Kadro Değişken Giderleri Dahil)
+Toplam Katılımcı Değişken Maliyeti :    4090.91 €
+Toplam Operasyonel Gider (Maliyet) :    9290.91 €
+----------------------------------------
+Vergi Matrahı (Dönem Kârı)         :    4659.09 €
+Kurumlar Vergisi (%25)             :    1164.77 €
+Yasal Net Kâr (Vergi Sonrası)       :    3494.32 €
+----------------------------------------
+DERNEK KÂR PAYI (%10)              :     349.43 €
+SİZE KALAN NET KÂR (%90)           :    3144.89 €
+Kişi Başına Düşen Net Kazancınız   :     262.07 €
+===========================================================================
+
+>>> SENARYO: 15 KATILIMCI <<<
+----------------------------------------
+Toplam Brüt Ciro (KDV Dahil)       :   20925.00 €
+Ödenecek KDV (%20)                 :    3487.50 €
+KDV Hariç Net Ciro                 :   17437.50 €
+----------------------------------------
+Toplam Sabit Maliyetler            :    5200.00 € (Kadro Değişken Giderleri Dahil)
+Toplam Katılımcı Değişken Maliyeti :    5113.64 €
+Toplam Operasyonel Gider (Maliyet) :   10313.64 €
+----------------------------------------
+Vergi Matrahı (Dönem Kârı)         :    7123.86 €
+Kurumlar Vergisi (%25)             :    1780.97 €
+Yasal Net Kâr (Vergi Sonrası)       :    5342.90 €
+----------------------------------------
+DERNEK KÂR PAYI (%10)              :     534.29 €
+SİZE KALAN NET KÂR (%90)           :    4808.61 €
+Kişi Başına Düşen Net Kazancınız   :     320.57 €
+===========================================================================
